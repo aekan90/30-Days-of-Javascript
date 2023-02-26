@@ -1,0 +1,1 @@
+console.log('log : introduction.js den geldi')
