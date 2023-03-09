@@ -57,6 +57,7 @@ data+=5;
 console.log(parseInt(data))
 
 
+
   // ------------------------------------- dışardan onay almak | confirm -------------------------------------------
   const agree = confirm("İzin vermek istediine emin misin?")
   console.log(agree)
