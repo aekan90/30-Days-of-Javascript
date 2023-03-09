@@ -845,7 +845,7 @@ for (var i = 0; i < satirlar.length; i++) {
     ilce.KOD = parseInt(hucreler[0]);
     ilce.ACIKLAMA = hucreler[1];
     //ilce.ILKOD = parseInt(hucreler[2]);
-    isNaN(hucreler[2]) ? 23 : parseInt(hucreler[2])
+    isNaN(hucreler[2]) ? "23" : parseInt(hucreler[2])
     ilceNesneleri.push(ilce); // ilce nesnesini diziye ekle
   }
   // HTML'de ILCE nesnelerini yazdırma
